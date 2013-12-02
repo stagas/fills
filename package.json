@@ -1,0 +1,14 @@
+{
+  "name": "fills",
+  "repo": "stagas/fills",
+  "version": "0.0.1",
+  "author": "stagas",
+  "description": "ordered callback results accumulator",
+  "keywords": ["async", "parallel"],
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "waits": "~0.1.0"
+  },
+  "engines": { "node": "*" }
+}
